@@ -1,0 +1,16 @@
+{
+  "name": "browserify-frontend-bundling",
+  "version": "1.0.0",
+  "description": "Frontend bundling targeting legacy codes migration to modular javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "browerify",
+    "legacy",
+    "bundling"
+  ],
+  "author": "klemo",
+  "license": "ISC"
+}
